@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/18572855-63c9-4008-8f10-7dcf1cd5902f/resourceGroups/05042022/providers/Microsoft.Web/sites/serin",
+    "appService.deploySubpath": "."
+}
